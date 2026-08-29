@@ -1,0 +1,64 @@
+about:
+  description: Framework for evaluating and improving agents 
+  license: Apache-2.0
+  homepage: https://harborframework.com/
+  head: 61095f4
+  archived: false
+  latestVersion: v0.22.0
+  collectedAt: 2026-08-29T07:20:38Z
+timeline:
+  created: 2025-08-04
+  lastCommit: 2026-08-29
+  lastRelease: 2026-08-22
+popularity:
+  star: 4756
+  watcher: 21
+  fork: 1681
+  release: 27
+  contributor: 318
+  pullRequest: 1478
+  issue: 389
+language:
+  Python: 14729472
+  TypeScript: 523903
+  Shell: 311290
+  MDX: 142906
+  Dockerfile: 73009
+  JavaScript: 23825
+  CSS: 7250
+  Go Template: 4181
+  Java: 660
+totalLine: 15816496
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 2
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-05-31
+    release: 12
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-02
+    release: 27
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-03
+    release: 27
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
