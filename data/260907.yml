@@ -5,19 +5,19 @@ about:
   head: 71c39ea
   archived: false
   latestVersion: "v0.22.0"
-  collectedAt: 2026-09-07T05:55:32Z
+  collectedAt: 2026-09-07T18:33:53Z
 timeline:
   created: 2025-08-04
   lastCommit: 2026-09-07
   lastRelease: 2026-08-22
 popularity:
-  star: 4998
+  star: 5013
   watcher: 25
-  fork: 1730
+  fork: 1734
   release: 27
   contributor: 323
-  pullRequest: 2700
-  issue: 409
+  pullRequest: 2701
+  issue: 412
 language:
   Python: 14954190
   TypeScript: 524640
@@ -81,13 +81,13 @@ recent:
 total:
   release: 27
   mergedPR: 1162
-  openPR: 569
+  openPR: 570
   closedIssue: 158
-  openIssue: 251
+  openIssue: 254
   commit: 1597
 ---
 path: /home/runner/.x-repo/github.com/laude-institute/harbor
-collectedAt: 2026-09-07T05:55:43Z
+collectedAt: 2026-09-07T18:34:05Z
 loc:
   Json:
     code: 355535
@@ -193,7 +193,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:55:45+00:00
+  collectedAt: 2026-09-07T18:34:06+00:00
   platform:
     darwin/arm64:
       name:  null
