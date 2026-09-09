@@ -2,12 +2,12 @@ about:
   description: "Framework for evaluating and improving agents "
   license: Apache-2.0
   homepage: https://harborframework.com/
-  head: 1f84b4c
+  head: 7d5285b
   archived: false
   latestVersion: "v0.22.0"
   latestRelease: "v0.22.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:51:29Z
+  collectedAt: 2026-09-09T20:26:48Z
 timeline:
   created: 2025-08-04
   lastCommit: 2026-09-09
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-08-22
   lastPrerelease: 
 popularity:
-  star: 5053
+  star: 5072
   watcher: 25
-  fork: 1745
+  fork: 1758
   release: 27
   contributor: 323
-  pullRequest: 2727
+  pullRequest: 2728
   issue: 418
 language:
-  Python: 15091186
+  Python: 15130861
   TypeScript: 524640
   Shell: 311290
   MDX: 262759
@@ -32,7 +32,7 @@ language:
   CSS: 7250
   Go Template: 4181
   Java: 660
-totalBytes: 16298800
+totalBytes: 16338475
 recent:
   last30d:
     since: 2026-08-10
@@ -84,14 +84,14 @@ recent:
     commit: 0
 total:
   release: 27
-  mergedPR: 1167
+  mergedPR: 1168
   openPR: 587
   closedIssue: 158
   openIssue: 260
-  commit: 1602
+  commit: 1603
 ---
 path: /home/runner/.x-repo/github.com/laude-institute/harbor
-collectedAt: 2026-09-09T05:51:54Z
+collectedAt: 2026-09-09T20:27:01Z
 loc:
   Json:
     code: 355535
@@ -99,9 +99,9 @@ loc:
     blanks: 2
     files: 265
   Python:
-    code: 345919
-    comments: 13688
-    blanks: 59054
+    code: 346891
+    comments: 13706
+    blanks: 59162
     files: 1382
   Tsx:
     code: 15772
@@ -180,8 +180,8 @@ loc:
     files: 2
   Markdown:
     code: 0
-    comments: 19680
-    blanks: 7740
+    comments: 19687
+    blanks: 7746
     files: 319
   Text:
     code: 0
@@ -189,9 +189,9 @@ loc:
     blanks: 271
     files: 30
 total:
-  code: 746091
-  comments: 39539
-  blanks: 73776
+  code: 747063
+  comments: 39564
+  blanks: 73890
   files: 3081
 ---
 
