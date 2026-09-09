@@ -7,7 +7,7 @@ Framework for evaluating and improving agents
 - **Latest release**: `v0.22.0` (2026-08-22)
 - **Last commit**: 2026-09-09
 - **License**: Apache-2.0
-- **Stars**: 5053 · **Forks**: 1745 · **Open issues**: 418 · **Contributors**: 323
+- **Stars**: 5072 · **Forks**: 1758 · **Open issues**: 418 · **Contributors**: 323
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/harbor> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:52:01Z._
+_Last regenerated: 2026-09-09T20:27:08Z._
