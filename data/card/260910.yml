@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.22.0"
   latestRelease: "v0.22.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:45:53Z
+  collectedAt: 2026-09-10T22:27:32Z
 timeline:
   created: 2025-08-04
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-22
   lastPrerelease: 
 popularity:
-  star: 5104
+  star: 5105
   watcher: 25
   fork: 1762
   release: 27
@@ -91,7 +91,7 @@ total:
   commit: 1605
 ---
 path: /home/runner/.x-repo/github.com/laude-institute/harbor
-collectedAt: 2026-09-10T21:46:05Z
+collectedAt: 2026-09-10T22:27:43Z
 loc:
   Json:
     code: 355535
