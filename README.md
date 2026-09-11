@@ -14,12 +14,12 @@ x install harbor
 
 ## Code insight
 
-Total: **748,309** lines of code across **2305** files in the top 5 languages.
+Total: **748,366** lines of code across **2305** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 355,535 | 0 | 2 | 265 |
-| Python | 352,348 | 13,714 | 59,918 | 1395 |
+| Python | 352,405 | 13,721 | 59,923 | 1395 |
 | Tsx | 15,772 | 163 | 1,129 | 79 |
 | Sh | 8,864 | 1,690 | 2,159 | 366 |
 | Yaml | 5,630 | 784 | 417 | 200 |
@@ -37,11 +37,11 @@ Total: **748,309** lines of code across **2305** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,117 · **Forks**: 1,765 · **Open issues**: 423 · **Contributors**: 325
+- **Stars**: 5,137 · **Forks**: 1,769 · **Open issues**: 424 · **Contributors**: 326
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 1173 · **Open PRs**: 602 · **Closed issues**: 158 · **Open issues**: 265 · **Commits**: 1608
+- **Releases**: 27 · **Merged PRs**: 1174 · **Open PRs**: 602 · **Closed issues**: 158 · **Open issues**: 266 · **Commits**: 1609
 
 ## Recent activity
 
@@ -63,4 +63,4 @@ Install metadata for harbor lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:49:43Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:10:53Z._
