@@ -14,12 +14,12 @@ x install harbor
 
 ## Code insight
 
-Total: **751,109** lines of code across **2308** files in the top 5 languages.
+Total: **752,026** lines of code across **2308** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
+| Python | 356,065 | 13,846 | 60,312 | 1398 |
 | Json | 355,535 | 0 | 2 | 265 |
-| Python | 355,148 | 13,800 | 60,207 | 1398 |
 | Tsx | 15,772 | 163 | 1,129 | 79 |
 | Sh | 8,864 | 1,690 | 2,159 | 366 |
 | Yaml | 5,630 | 784 | 417 | 200 |
@@ -37,22 +37,22 @@ Total: **751,109** lines of code across **2308** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,148 · **Forks**: 1,772 · **Open issues**: 427 · **Contributors**: 328
+- **Stars**: 5,173 · **Forks**: 1,778 · **Open issues**: 429 · **Contributors**: 329
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1183 · **Open PRs**: 595 · **Closed issues**: 159 · **Open issues**: 268 · **Commits**: 1620
+- **Releases**: 28 · **Merged PRs**: 1187 · **Open PRs**: 595 · **Closed issues**: 161 · **Open issues**: 268 · **Commits**: 1624
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-14 | 4 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-14 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-16 | 28 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-17 | 28 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-22 | 28 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-14 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-15 | 4 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-15 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-17 | 28 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-18 | 28 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-23 | 28 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for harbor lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:43:06Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:10:25Z._
