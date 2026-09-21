@@ -37,22 +37,22 @@ Total: **762,584** lines of code across **2336** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,418 · **Forks**: 1,825 · **Open issues**: 445 · **Contributors**: 338
+- **Stars**: 5,451 · **Forks**: 1,828 · **Open issues**: 446 · **Contributors**: 338
 
 ## Totals (cumulative)
 
-- **Releases**: 28 · **Merged PRs**: 1248 · **Open PRs**: 623 · **Closed issues**: 175 · **Open issues**: 270 · **Commits**: 1700
+- **Releases**: 28 · **Merged PRs**: 1248 · **Open PRs**: 627 · **Closed issues**: 175 · **Open issues**: 271 · **Commits**: 1700
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-22 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-22 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-24 | 28 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-25 | 28 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-30 | 28 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-22 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-23 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-25 | 28 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-26 | 28 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-01 | 28 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for harbor lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:02:28Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:07:56Z._
