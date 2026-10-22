@@ -14,14 +14,14 @@ x install harbor
 
 ## Code insight
 
-Total: **834,718** lines of code across **2496** files in the top 5 languages.
+Total: **835,333** lines of code across **2500** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 433,164 | 14,630 | 69,738 | 1582 |
-| Json | 356,165 | 0 | 2 | 253 |
+| Python | 433,751 | 14,637 | 69,796 | 1584 |
+| Json | 356,166 | 0 | 2 | 253 |
 | Tsx | 18,627 | 180 | 1,165 | 84 |
-| Sh | 8,970 | 1,707 | 2,165 | 376 |
+| Sh | 8,978 | 1,711 | 2,168 | 378 |
 | Yaml | 5,658 | 791 | 419 | 201 |
 
 ## Source
@@ -33,26 +33,26 @@ Total: **834,718** lines of code across **2496** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.24.0` (2026-10-05)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 6,315 · **Forks**: 2,047 · **Open issues**: 530 · **Contributors**: 381
+- **Stars**: 6,350 · **Forks**: 2,059 · **Open issues**: 530 · **Contributors**: 382
 
 ## Totals (cumulative)
 
-- **Releases**: 29 · **Merged PRs**: 1389 · **Open PRs**: 770 · **Closed issues**: 198 · **Open issues**: 332 · **Commits**: 1854
+- **Releases**: 29 · **Merged PRs**: 1395 · **Open PRs**: 775 · **Closed issues**: 200 · **Open issues**: 330 · **Commits**: 1860
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-22 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-23 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-24 | 26 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-26 | 29 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-31 | 29 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-22 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-23 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-24 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-25 | 26 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-27 | 29 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-01 | 29 | 0 | 0 | 0 | 0 | 0 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for harbor lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:48:02Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:41:39Z._
