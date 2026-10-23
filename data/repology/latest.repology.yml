@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: harbor
+  binname: harbor
+  visiblename: harbor
+  version: 1.0.0
+  origversion: 1.0.0-2
+  status: unique
+  summary: Ecash management tool
+  maintainers:
+    - fredix@aur
+  licenses:
+    - MIT
